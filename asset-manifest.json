@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boiz/static/css/main.2296ee3d.css",
+    "main.js": "/boiz/static/js/main.ac94aba3.js",
+    "static/js/453.b327ce20.chunk.js": "/boiz/static/js/453.b327ce20.chunk.js",
+    "index.html": "/boiz/index.html",
+    "main.2296ee3d.css.map": "/boiz/static/css/main.2296ee3d.css.map",
+    "main.ac94aba3.js.map": "/boiz/static/js/main.ac94aba3.js.map",
+    "453.b327ce20.chunk.js.map": "/boiz/static/js/453.b327ce20.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2296ee3d.css",
+    "static/js/main.ac94aba3.js"
+  ]
+}
